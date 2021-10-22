@@ -15,9 +15,4 @@ What seperates Taseer from the rest? He is:
 - **Not** afraid to apply **new** knowledge on the go!
 
 ### Hire Taseer! ✅ 
-Feel free to contact me @ `taseer.ahmadd@gmail.com` I am always available to answer any questions.
-
-<!---
-TaseerAhmad/TaseerAhmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to contact him @ `taseer.ahmadd@gmail.com`
