@@ -21,5 +21,3 @@ Feel free to contact him @ `taseer.ahmadd@gmail.com`
 
 I am building a back-end for an ecommerce website in Node.js!
 This is my first big project with Node.js and I am already learning alot. The repository is private for now. 
-
-No, this is not some yippy yappy awful structured project. You will be amazed to see the code quality ;)
